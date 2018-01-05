@@ -435,6 +435,22 @@ const fruitData = {
       "isBerry": "no",
       "isOneBiteSize": "yes",
       "seedsOutside": "no"
+    },
+    {
+      "name": "dragonfruit",
+      "sizeTennisBall": "larger",
+      "colourInside": ["white", "pink", "purple"],
+      "numberSeeds": "many",
+      "colourOutside": ["pink", "purple", "red"],
+      "isLong": "no",
+      "isStinky": "no",
+      "isSkinRough": "yes",
+      "isCitrus": "no",
+      "isBellShape": "no",
+      "isEdibleSkin": "no",
+      "isBerry": "no",
+      "isOneBiteSize": "no",
+      "seedsOutside": "no"
     }
   ],
   "attributes" : ["sizeTennisBall", "colourInside", "colourOutside", "numberSeeds", "isLong", "isStinky", "isSkinRough", "isCitrus", "isBellShape", "isEdibleSkin", "isBerry", "isOneBiteSize", "seedsOutside"]
