@@ -13,10 +13,7 @@
 
  let speechOutput;
  let reprompt;
- const welcomeOutput = "I can guess the fruit you're thinking about, " +
-                       "Due to testing purposes, this skill only works with " +
-                       "Watermelon, Orange, Banana, Strawberry, Blueberry, " +
-                       "and Blackberry. let me know when you're ready!"
+ const welcomeOutput = "I can guess the fruit you're thinking about, let me know when you're ready!"
  const welcomeReprompt = "Let me know if you have a fruit in mind!";
  const fruitAnswerIntro = [
    "hmm... let me guess, your fruit is...",
